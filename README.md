@@ -1,7 +1,7 @@
-- 👋 Hi, I’m 2Pro4You | Busy | 〆 | ⧋#2746
+- 👋 Hi, I’m Shreyansh 〆 | 
 - 👀 I’m interested in gaming and music
-- 🌱 I’m currently learning discord.js
-- 💞️ I’m looking to partnership with dank based servers
-- 📫 How to reach contact me on dicsord `2Pro4You | Busy | 〆 | ⧋#2746`
-
-
+- 🧧 Intrested in AI and Coding
+- 🌱 I am currently learning AI and Python
+- 💞️ Would love guidance for studies and self improvement
+- 📖 Currently a Student in VITB (CSE) and IITJ (AIDS) 
+- 📫 How to reach contact me on dicsord or instagram `2pro4youx`
