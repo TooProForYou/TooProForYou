@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Shreyansh 〆 | 
-- 👀 I’m interested in gaming and music
-- 🧧 Intrested in AI and Coding
+- 👋 Hi, I’m `Shreyansh 〆 | `
+- 👀 I’m interested in `gaming` and `music`
+- 🧧 Intrested in `AI` and `Coding`
 - 🌱 I am currently learning AI and Python
 - 💞️ Would love guidance for studies and self improvement
-- 📖 Currently a Student in VITB (CSE) and IITJ (AIDS) 
+- 📖 Currently a Student at `VITB (CSE)` and `IITJ (AIDS)` 
 - 📫 How to reach contact me on dicsord or instagram `2pro4youx`
